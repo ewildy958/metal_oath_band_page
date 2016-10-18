@@ -3,13 +3,17 @@ body{
 }
 
 header{
-	background-color: #2A2C2B;
-	height: 85px;
+	background-color: #FFF;
+	height: 75px;
+	margin-bottom: 8px;
+	border-style: solid;
+	border-color: #940008;
+	border-width: 10px;
 }
 #logo{
-	background-color: #AD180F;
-	margin-top: 8px;
-	margin-left: 10px;
+	border-style: none;
+	margin-top: 9px;
+	margin-left: 20px;
 } 
 
 nav ul {
@@ -44,11 +48,13 @@ img{
 	border-style: solid;
 	border-width: 5px;
 	border-color: #940008;
-	
+	margin-top: 10px;
 }
 
 .float_left {
 	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
 }
 
 .float_right {
@@ -59,6 +65,11 @@ img{
 
 .margin_left {
 	margin-left: 400px;
+}
+
+section {
+	clear: both;
+	margin-right: 15px;
 }
 
 p{
@@ -150,7 +161,6 @@ footer {
 }
 
 footer ul {
-
   	list-style-type: none;
   	margin: 0;
  	padding: 0;
