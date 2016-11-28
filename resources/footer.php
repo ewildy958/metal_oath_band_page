@@ -12,4 +12,11 @@
 		</li>
 
 	</ul>
+
+	<script type="text/javascript">
+		document.getElementById('Logout').onclick = function() {
+			amazon.Login.logout();
+		};
+	</script>
+	
 	</footer>
