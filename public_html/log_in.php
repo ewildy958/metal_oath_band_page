@@ -55,7 +55,7 @@
 	<script type="text/javascript">
 		document.getElementById('LoginWithAmazon').onclick = function() {
 			options = { scope : 'profile' };
-			amazon.Login.authorize(options, 'http://ec2-35-160-178-88.us-west-2.compute.amazonaws.com/log_in.php/handle_login.php');
+			amazon.Login.authorize(options, 'http://ec2-35-160-178-88.us-west-2.compute.amazonaws.com/log_in.php/handl_login.php');
 			return false;
 		};
 	</script>
