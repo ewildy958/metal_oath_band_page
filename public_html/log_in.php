@@ -19,7 +19,6 @@
   
   
     <?php include '../resources/navigation.php'; ?>
-	<?php include '../resources/handle_login.php'; ?>
 	<h1>
 		Login
 	</h1>
