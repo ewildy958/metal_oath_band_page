@@ -19,6 +19,7 @@
   
   
     <?php include '../resources/navigation.php'; ?>
+	<?php include 'login.php'; ?>
 	<h1>
 		Login
 	</h1>
