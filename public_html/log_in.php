@@ -31,7 +31,7 @@
 	</form>
 	<br>
 
-	<div id="amazon-root"></div>
+	<!--<div id="amazon-root"></div>
 	<script type="text/javascript">
 
 		window.onAmazonLoginReady = function() {
@@ -58,7 +58,7 @@
 			amazon.Login.authorize(options, 'http://ec2-35-160-178-88.us-west-2.compute.amazonaws.com/log_in.php/handle_login.php');
 			return false;
 		};
-	</script>
+	</script>-->
 
 
 
