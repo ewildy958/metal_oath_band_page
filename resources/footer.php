@@ -8,7 +8,7 @@
 		</li>
 
 		<li>
-		<a href="log_in.php">Log In</a>
+		<a href="login.php">Log In</a>
 		</li>
 
 	</ul>
